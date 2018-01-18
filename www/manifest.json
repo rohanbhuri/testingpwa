@@ -1,9 +1,9 @@
 {
-  "name": "cryptoPWA",
-  "short_name": "cryptoPWA",
+  "name": "3d interactive map",
+  "short_name": "3d interactive map",
   "start_url": "index.html",
   "display": "standalone",
-  "description": "Simple wealth tracker for cryptocurrencies.",
+  "description": "3d interactive map",
   "icons": [
     {
       "src": "assets/imgs/icon-72x72.png",
